@@ -493,6 +493,7 @@ ul > li {
 .extras {
   display: flex;
   padding-bottom: 95px;
+  justify-content: center;
 }
 .extras__col {
   margin-right: 20px;
